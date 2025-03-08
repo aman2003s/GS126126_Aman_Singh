@@ -1,6 +1,6 @@
 [
   {
-    "id": "SK00158",
+    "sku": "SK00158",
     "label": "Crew Neck Merino Wool Sweater",
     "class": "Tops",
     "department": "Men's Apparel",
@@ -8,7 +8,7 @@
     "cost": 18.28
   },
   {
-    "id": "SK00269",
+    "sku": "SK00269",
     "label": "Faux Leather Leggings",
     "class": "Jewelry",
     "department": "Footwear",
@@ -16,7 +16,7 @@
     "cost": 8.45
   },
   {
-    "id": "SK00300",
+    "sku": "SK00300",
     "label": "Fleece-Lined Parka",
     "class": "Jewelry",
     "department": "Unisex Accessories",
@@ -24,7 +24,7 @@
     "cost": 17.8
   },
   {
-    "id": "SK00304",
+    "sku": "SK00304",
     "label": "Cotton Polo Shirt",
     "class": "Tops",
     "department": "Women's Apparel",
@@ -32,7 +32,7 @@
     "cost": 10.78
   },
   {
-    "id": "SK00766",
+    "sku": "SK00766",
     "label": "Foldable Travel Hat",
     "class": "Tops",
     "department": "Footwear",
@@ -40,7 +40,7 @@
     "cost": 27.08
   },
   {
-    "id": "SK00786",
+    "sku": "SK00786",
     "label": "Chic Quilted Wallet",
     "class": "Bottoms",
     "department": "Footwear",
@@ -48,7 +48,7 @@
     "cost": 4.02
   },
   {
-    "id": "SK00960",
+    "sku": "SK00960",
     "label": "High-Slit Maxi Dress",
     "class": "Outerwear",
     "department": "Sportswear",
@@ -56,7 +56,7 @@
     "cost": 47.47
   },
   {
-    "id": "SK01183",
+    "sku": "SK01183",
     "label": "Turtleneck Cable Knit Sweater",
     "class": "Footwear",
     "department": "Footwear",
@@ -64,7 +64,7 @@
     "cost": 22.6
   },
   {
-    "id": "SK01189",
+    "sku": "SK01189",
     "label": "Retro-Inspired Sunglasses",
     "class": "Bottoms",
     "department": "Women's Apparel",
@@ -72,7 +72,7 @@
     "cost": 115.63
   },
   {
-    "id": "SK01193",
+    "sku": "SK01193",
     "label": "Stretch Denim Overalls",
     "class": "Bottoms",
     "department": "Unisex Accessories",
@@ -80,7 +80,7 @@
     "cost": 47.06
   },
   {
-    "id": "SK01249",
+    "sku": "SK01249",
     "label": "Adjustable Elastic Headband",
     "class": "Footwear",
     "department": "Women's Apparel",
@@ -88,7 +88,7 @@
     "cost": 1.34
   },
   {
-    "id": "SK01319",
+    "sku": "SK01319",
     "label": "Adjustable Baseball Cap",
     "class": "Jewelry",
     "department": "Men's Apparel",
@@ -96,7 +96,7 @@
     "cost": 2.29
   },
   {
-    "id": "SK01349",
+    "sku": "SK01349",
     "label": "Cotton Polo Shirt",
     "class": "Bottoms",
     "department": "Unisex Accessories",
@@ -104,7 +104,7 @@
     "cost": 60.94
   },
   {
-    "id": "SK01549",
+    "sku": "SK01549",
     "label": "Faux Suede Ankle Boots",
     "class": "Tops",
     "department": "Sportswear",
@@ -112,7 +112,7 @@
     "cost": 71.53
   },
   {
-    "id": "SK01566",
+    "sku": "SK01566",
     "label": "Striped Cotton Socks",
     "class": "Accessories",
     "department": "Sportswear",
@@ -120,7 +120,7 @@
     "cost": 6.91
   },
   {
-    "id": "SK01642",
+    "sku": "SK01642",
     "label": "Performance Compression Tights",
     "class": "Outerwear",
     "department": "Sportswear",
@@ -128,7 +128,7 @@
     "cost": 59.61
   },
   {
-    "id": "SK01733",
+    "sku": "SK01733",
     "label": "Vintage Logo Hoodie",
     "class": "Accessories",
     "department": "Men's Apparel",
@@ -136,7 +136,7 @@
     "cost": 84.45
   },
   {
-    "id": "SK01896",
+    "sku": "SK01896",
     "label": "Floral Chiffon Wrap Dress",
     "class": "Accessories",
     "department": "Unisex Accessories",
@@ -144,7 +144,7 @@
     "cost": 68.55
   },
   {
-    "id": "SK01927",
+    "sku": "SK01927",
     "label": "Asymmetrical Hem Skirt",
     "class": "Jewelry",
     "department": "Sportswear",
@@ -152,7 +152,7 @@
     "cost": 66.89
   },
   {
-    "id": "SK01950",
+    "sku": "SK01950",
     "label": "Slim Fit Pinstripe Suit",
     "class": "Bottoms",
     "department": "Women's Apparel",
@@ -160,7 +160,7 @@
     "cost": 13.3
   },
   {
-    "id": "SK02029",
+    "sku": "SK02029",
     "label": "Chunky Heel Sandals",
     "class": "Jewelry",
     "department": "Unisex Accessories",
@@ -168,7 +168,7 @@
     "cost": 46.7
   },
   {
-    "id": "SK02429",
+    "sku": "SK02429",
     "label": "Suede Fringe Vest",
     "class": "Bottoms",
     "department": "Footwear",
@@ -176,7 +176,7 @@
     "cost": 159.65
   },
   {
-    "id": "SK02448",
+    "sku": "SK02448",
     "label": "Relaxed Fit Cargo Pants",
     "class": "Bottoms",
     "department": "Sportswear",
@@ -184,7 +184,7 @@
     "cost": 7.2
   },
   {
-    "id": "SK02562",
+    "sku": "SK02562",
     "label": "Corduroy A-Line Skirt",
     "class": "Jewelry",
     "department": "Footwear",
@@ -192,7 +192,7 @@
     "cost": 48.62
   },
   {
-    "id": "SK02642",
+    "sku": "SK02642",
     "label": "Formal Dress Shoes",
     "class": "Bottoms",
     "department": "Women's Apparel",
@@ -200,7 +200,7 @@
     "cost": 161.69
   },
   {
-    "id": "SK02768",
+    "sku": "SK02768",
     "label": "Tailored Corduroy Blazer",
     "class": "Accessories",
     "department": "Sportswear",
@@ -208,7 +208,7 @@
     "cost": 62.99
   },
   {
-    "id": "SK02805",
+    "sku": "SK02805",
     "label": "Foldable Travel Hat",
     "class": "Outerwear",
     "department": "Women's Apparel",
@@ -216,7 +216,7 @@
     "cost": 56.16
   },
   {
-    "id": "SK02904",
+    "sku": "SK02904",
     "label": "Asymmetrical Hem Skirt",
     "class": "Tops",
     "department": "Unisex Accessories",
@@ -224,7 +224,7 @@
     "cost": 67.94
   },
   {
-    "id": "SK03182",
+    "sku": "SK03182",
     "label": "Plaid Flannel Shirt",
     "class": "Tops",
     "department": "Unisex Accessories",
@@ -232,7 +232,7 @@
     "cost": 17.5
   },
   {
-    "id": "SK03289",
+    "sku": "SK03289",
     "label": "Oversized Hoodie",
     "class": "Tops",
     "department": "Women's Apparel",
@@ -240,7 +240,7 @@
     "cost": 122.23
   },
   {
-    "id": "SK03348",
+    "sku": "SK03348",
     "label": "Woven Straw Sun Hat",
     "class": "Jewelry",
     "department": "Footwear",
@@ -248,7 +248,7 @@
     "cost": 8.91
   },
   {
-    "id": "SK03569",
+    "sku": "SK03569",
     "label": "Faux Fur Winter Coat",
     "class": "Tops",
     "department": "Men's Apparel",
@@ -256,7 +256,7 @@
     "cost": 7.37
   },
   {
-    "id": "SK03572",
+    "sku": "SK03572",
     "label": "Casual Cotton Romper",
     "class": "Tops",
     "department": "Footwear",
@@ -264,7 +264,7 @@
     "cost": 52.32
   },
   {
-    "id": "SK03636",
+    "sku": "SK03636",
     "label": "Racerback Sports Bra",
     "class": "Footwear",
     "department": "Unisex Accessories",
@@ -272,7 +272,7 @@
     "cost": 8.72
   },
   {
-    "id": "SK03725",
+    "sku": "SK03725",
     "label": "Polarized Sports Sunglasses",
     "class": "Tops",
     "department": "Men's Apparel",
@@ -280,7 +280,7 @@
     "cost": 9.44
   },
   {
-    "id": "SK03980",
+    "sku": "SK03980",
     "label": "Chunky Platform Sneakers",
     "class": "Tops",
     "department": "Unisex Accessories",
@@ -288,7 +288,7 @@
     "cost": 61.7
   },
   {
-    "id": "SK04282",
+    "sku": "SK04282",
     "label": "Slim Fit Chinos",
     "class": "Footwear",
     "department": "Sportswear",
@@ -296,7 +296,7 @@
     "cost": 51.98
   },
   {
-    "id": "SK04325",
+    "sku": "SK04325",
     "label": "Faux Leather Leggings",
     "class": "Tops",
     "department": "Footwear",
@@ -304,7 +304,7 @@
     "cost": 13.06
   },
   {
-    "id": "SK04707",
+    "sku": "SK04707",
     "label": "Water-Resistant Fanny Pack",
     "class": "Tops",
     "department": "Women's Apparel",
@@ -312,7 +312,7 @@
     "cost": 23.64
   },
   {
-    "id": "SK04815",
+    "sku": "SK04815",
     "label": "Performance Compression Tights",
     "class": "Bottoms",
     "department": "Footwear",
@@ -320,7 +320,7 @@
     "cost": 16.29
   },
   {
-    "id": "SK05097",
+    "sku": "SK05097",
     "label": "Cropped Faux Leather Jacket",
     "class": "Jewelry",
     "department": "Sportswear",
@@ -328,7 +328,7 @@
     "cost": 19.52
   },
   {
-    "id": "SK05194",
+    "sku": "SK05194",
     "label": "Breathable Mesh Shorts",
     "class": "Accessories",
     "department": "Footwear",
@@ -336,7 +336,7 @@
     "cost": 28.08
   },
   {
-    "id": "SK05478",
+    "sku": "SK05478",
     "label": "Minimalist Silver Ring",
     "class": "Accessories",
     "department": "Footwear",
@@ -344,7 +344,7 @@
     "cost": 147.34
   },
   {
-    "id": "SK05715",
+    "sku": "SK05715",
     "label": "Ribbed Turtleneck Dress",
     "class": "Bottoms",
     "department": "Footwear",
@@ -352,7 +352,7 @@
     "cost": 22.61
   },
   {
-    "id": "SK05928",
+    "sku": "SK05928",
     "label": "Velvet Slip Dress",
     "class": "Jewelry",
     "department": "Men's Apparel",
@@ -360,7 +360,7 @@
     "cost": 41.64
   },
   {
-    "id": "SK06290",
+    "sku": "SK06290",
     "label": "Waterproof Smartwatch",
     "class": "Bottoms",
     "department": "Men's Apparel",
@@ -368,7 +368,7 @@
     "cost": 53.5
   },
   {
-    "id": "SK06375",
+    "sku": "SK06375",
     "label": "Patterned Cotton Bucket Hat",
     "class": "Outerwear",
     "department": "Sportswear",
@@ -376,7 +376,7 @@
     "cost": 114.4
   },
   {
-    "id": "SK06559",
+    "sku": "SK06559",
     "label": "Diamond Stud Earrings",
     "class": "Outerwear",
     "department": "Men's Apparel",
@@ -384,7 +384,7 @@
     "cost": 146.0
   },
   {
-    "id": "SK06601",
+    "sku": "SK06601",
     "label": "Tassel Fringe Handbag",
     "class": "Outerwear",
     "department": "Unisex Accessories",
@@ -392,7 +392,7 @@
     "cost": 33.29
   },
   {
-    "id": "SK06651",
+    "sku": "SK06651",
     "label": "Tactical Hiking Backpack",
     "class": "Outerwear",
     "department": "Sportswear",
@@ -400,7 +400,7 @@
     "cost": 52.54
   },
   {
-    "id": "SK06691",
+    "sku": "SK06691",
     "label": "Patterned Cotton Bucket Hat",
     "class": "Accessories",
     "department": "Unisex Accessories",
@@ -408,7 +408,7 @@
     "cost": 2.14
   },
   {
-    "id": "SK06996",
+    "sku": "SK06996",
     "label": "Bohemian Beaded Bracelet",
     "class": "Accessories",
     "department": "Unisex Accessories",
@@ -416,7 +416,7 @@
     "cost": 116.12
   },
   {
-    "id": "SK07054",
+    "sku": "SK07054",
     "label": "Mesh Panel Yoga Pants",
     "class": "Accessories",
     "department": "Footwear",
@@ -424,7 +424,7 @@
     "cost": 166.86
   },
   {
-    "id": "SK07068",
+    "sku": "SK07068",
     "label": "Diamond Stud Earrings",
     "class": "Outerwear",
     "department": "Sportswear",
@@ -432,7 +432,7 @@
     "cost": 13.75
   },
   {
-    "id": "SK07322",
+    "sku": "SK07322",
     "label": "Faux Suede Ankle Boots",
     "class": "Tops",
     "department": "Footwear",
@@ -440,7 +440,7 @@
     "cost": 90.43
   },
   {
-    "id": "SK07369",
+    "sku": "SK07369",
     "label": "Water-Resistant Fanny Pack",
     "class": "Outerwear",
     "department": "Unisex Accessories",
@@ -448,7 +448,7 @@
     "cost": 3.73
   },
   {
-    "id": "SK07447",
+    "sku": "SK07447",
     "label": "Plaid Wool Scarf",
     "class": "Tops",
     "department": "Footwear",
@@ -456,7 +456,7 @@
     "cost": 97.57
   },
   {
-    "id": "SK07484",
+    "sku": "SK07484",
     "label": "Cropped Faux Leather Jacket",
     "class": "Accessories",
     "department": "Women's Apparel",
@@ -464,7 +464,7 @@
     "cost": 163.43
   },
   {
-    "id": "SK07595",
+    "sku": "SK07595",
     "label": "Textured Knit Pullover",
     "class": "Tops",
     "department": "Footwear",
@@ -472,7 +472,7 @@
     "cost": 50.43
   },
   {
-    "id": "SK07767",
+    "sku": "SK07767",
     "label": "Boho Style Tassel Earrings",
     "class": "Footwear",
     "department": "Sportswear",
@@ -480,7 +480,7 @@
     "cost": 193.43
   },
   {
-    "id": "SK07782",
+    "sku": "SK07782",
     "label": "Sherpa Lined Hooded Coat",
     "class": "Jewelry",
     "department": "Footwear",
@@ -488,7 +488,7 @@
     "cost": 128.09
   },
   {
-    "id": "SK07944",
+    "sku": "SK07944",
     "label": "Mesh Panel Yoga Pants",
     "class": "Tops",
     "department": "Unisex Accessories",
@@ -496,7 +496,7 @@
     "cost": 45.49
   },
   {
-    "id": "SK08191",
+    "sku": "SK08191",
     "label": "Graphic Print T-Shirt",
     "class": "Jewelry",
     "department": "Men's Apparel",
@@ -504,7 +504,7 @@
     "cost": 53.35
   },
   {
-    "id": "SK08285",
+    "sku": "SK08285",
     "label": "Fitted V-Neck Sweater",
     "class": "Footwear",
     "department": "Men's Apparel",
@@ -512,7 +512,7 @@
     "cost": 110.24
   },
   {
-    "id": "SK08314",
+    "sku": "SK08314",
     "label": "Formal Dress Shoes",
     "class": "Accessories",
     "department": "Footwear",
@@ -520,7 +520,7 @@
     "cost": 8.62
   },
   {
-    "id": "SK08373",
+    "sku": "SK08373",
     "label": "Satin Lace Camisole",
     "class": "Jewelry",
     "department": "Women's Apparel",
@@ -528,7 +528,7 @@
     "cost": 136.15
   },
   {
-    "id": "SK08443",
+    "sku": "SK08443",
     "label": "Slim Fit Chinos",
     "class": "Bottoms",
     "department": "Unisex Accessories",
@@ -536,7 +536,7 @@
     "cost": 61.64
   },
   {
-    "id": "SK08544",
+    "sku": "SK08544",
     "label": "Retro-Inspired Sunglasses",
     "class": "Footwear",
     "department": "Women's Apparel",
@@ -544,7 +544,7 @@
     "cost": 41.12
   },
   {
-    "id": "SK08557",
+    "sku": "SK08557",
     "label": "Formal Velvet Blazer",
     "class": "Bottoms",
     "department": "Sportswear",
@@ -552,7 +552,7 @@
     "cost": 189.14
   },
   {
-    "id": "SK08783",
+    "sku": "SK08783",
     "label": "Striped Cotton Socks",
     "class": "Accessories",
     "department": "Footwear",
@@ -560,7 +560,7 @@
     "cost": 10.54
   },
   {
-    "id": "SK09245",
+    "sku": "SK09245",
     "label": "Yoga Leggings",
     "class": "Bottoms",
     "department": "Unisex Accessories",
@@ -568,7 +568,7 @@
     "cost": 172.58
   },
   {
-    "id": "SK09312",
+    "sku": "SK09312",
     "label": "Formal Dress Shoes",
     "class": "Bottoms",
     "department": "Sportswear",
@@ -576,7 +576,7 @@
     "cost": 1.96
   },
   {
-    "id": "SK09318",
+    "sku": "SK09318",
     "label": "Aviator Sunglasses",
     "class": "Footwear",
     "department": "Sportswear",
@@ -584,7 +584,7 @@
     "cost": 12.37
   },
   {
-    "id": "SK09414",
+    "sku": "SK09414",
     "label": "Perforated Leather Belt",
     "class": "Tops",
     "department": "Footwear",
@@ -592,7 +592,7 @@
     "cost": 4.5
   },
   {
-    "id": "SK09453",
+    "sku": "SK09453",
     "label": "Smart Heated Gloves",
     "class": "Footwear",
     "department": "Unisex Accessories",
@@ -600,7 +600,7 @@
     "cost": 100.53
   },
   {
-    "id": "SK09469",
+    "sku": "SK09469",
     "label": "Silk Embroidered Kimono",
     "class": "Jewelry",
     "department": "Sportswear",
@@ -608,7 +608,7 @@
     "cost": 78.64
   },
   {
-    "id": "SK09592",
+    "sku": "SK09592",
     "label": "Performance Swim Trunks",
     "class": "Tops",
     "department": "Men's Apparel",
@@ -616,7 +616,7 @@
     "cost": 157.84
   },
   {
-    "id": "SK09659",
+    "sku": "SK09659",
     "label": "Tactical Hiking Backpack",
     "class": "Jewelry",
     "department": "Women's Apparel",
@@ -624,7 +624,7 @@
     "cost": 58.16
   },
   {
-    "id": "SK09728",
+    "sku": "SK09728",
     "label": "Thermal Running Gloves",
     "class": "Outerwear",
     "department": "Women's Apparel",
@@ -632,7 +632,7 @@
     "cost": 53.79
   },
   {
-    "id": "SK09816",
+    "sku": "SK09816",
     "label": "Quilted Leather Clutch",
     "class": "Jewelry",
     "department": "Unisex Accessories",
@@ -640,7 +640,7 @@
     "cost": 95.84
   },
   {
-    "id": "SK10226",
+    "sku": "SK10226",
     "label": "Rugged Utility Jacket",
     "class": "Accessories",
     "department": "Unisex Accessories",
@@ -648,7 +648,7 @@
     "cost": 2.43
   },
   {
-    "id": "SK10286",
+    "sku": "SK10286",
     "label": "Tapered Suit Trousers",
     "class": "Bottoms",
     "department": "Men's Apparel",
@@ -656,11 +656,547 @@
     "cost": 53.1
   },
   {
-    "id": "SK10304",
+    "sku": "SK10304",
     "label": "Faux Leather Leggings",
     "class": "Tops",
     "department": "Men's Apparel",
     "price": 139.99,
     "cost": 22.54
+  },
+  {
+    "sku": "SK10514",
+    "label": "Lace-Up Combat Boots",
+    "class": "Tops",
+    "department": "Sportswear",
+    "price":109.99,
+    "cost":64.89
+  },
+  {
+    "sku": "SK10565",
+    "label": "Athletic Crew Socks",
+    "class": "Accessories",
+    "department": "Unisex Accessories",
+    "price":174.99,
+    "cost":1.75
+  },
+  {
+    "sku": "SK10717",
+    "label": "Silk Neck Scarf",
+    "class": "Outerwear",
+    "department": "Footwear",
+    "price":94.99,
+    "cost":49.87
+  },
+  {
+    "sku": "SK10760",
+    "label": "Sherpa Lined Denim Jacket",
+    "class": "Outerwear",
+    "department": "Women's Apparel",
+    "price":119.99,
+    "cost":28.92
+  },
+  {
+    "sku": "SK11103",
+    "label": "Lace-Up Combat Boots",
+    "class": "Outerwear",
+    "department": "Men's Apparel",
+    "price":24.99,
+    "cost":24.84
+  },
+  {
+    "sku": "SK11147",
+    "label": "Sporty Zip-Up Hoodie",
+    "class": "Footwear",
+    "department": "Women's Apparel",
+    "price":184.99,
+    "cost":65.30
+  },
+  {
+    "sku": "SK11260",
+    "label": "Minimalist Gold Necklace",
+    "class": "Footwear",
+    "department": "Unisex Accessories",
+    "price":104.99,
+    "cost":52.08
+  },
+  {
+    "sku": "SK11808",
+    "label": "Classic Denim Jacket",
+    "class": "Jewelry",
+    "department": "Women's Apparel",
+    "price":149.99,
+    "cost":144.29
+  },
+  {
+    "sku": "SK11860",
+    "label": "Tassel Fringe Handbag",
+    "class": "Accessories",
+    "department": "Sportswear",
+    "price":109.99,
+    "cost":3.19
+  },
+  {
+    "sku": "SK12148",
+    "label": "Oversized Cat-Eye Sunglasses",
+    "class": "Jewelry",
+    "department": "Footwear",
+    "price":159.99,
+    "cost":109.11
+  },
+  {
+    "sku": "SK12418",
+    "label": "Minimalist Leather Watch",
+    "class": "Bottoms",
+    "department": "Unisex Accessories",
+    "price":49.99,
+    "cost":49.89
+  },
+  {
+    "sku": "SK12460",
+    "label": "Quilted Leather Clutch",
+    "class": "Bottoms",
+    "department": "Unisex Accessories",
+    "price":4.99,
+    "cost":0.68
+  },
+  {
+    "sku": "SK12478",
+    "label": "Floral Chiffon Wrap Dress",
+    "class": "Footwear",
+    "department": "Men's Apparel",
+    "price":184.99,
+    "cost":39.59
+  },
+  {
+    "sku": "SK12670",
+    "label": "Graphic Skateboard Tee",
+    "class": "Bottoms",
+    "department": "Women's Apparel",
+    "price":194.99,
+    "cost":53.43
+  },
+  {
+    "sku": "SK12760",
+    "label": "Minimalist Silver Ring",
+    "class": "Tops",
+    "department": "Unisex Accessories",
+    "price":9.99,
+    "cost":9.53
+  },
+  {
+    "sku": "SK12773",
+    "label": "Padded Winter Mittens",
+    "class": "Tops",
+    "department": "Unisex Accessories",
+    "price":154.99,
+    "cost":53.78
+  },
+  {
+    "sku": "SK12919",
+    "label": "Classic Denim Jacket",
+    "class": "Jewelry",
+    "department": "Footwear",
+    "price":109.99,
+    "cost":89.53
+  },
+  {
+    "sku": "SK13050",
+    "label": "Lace-Up Combat Boots",
+    "class": "Tops",
+    "department": "Women's Apparel",
+    "price":134.99,
+    "cost":75.59
+  },
+  {
+    "sku": "SK13226",
+    "label": "Cuffed Jogger Pants",
+    "class": "Jewelry",
+    "department": "Footwear",
+    "price":69.99,
+    "cost":64.95
+  },
+  {
+    "sku": "SK13248",
+    "label": "Oversized Hoodie",
+    "class": "Outerwear",
+    "department": "Men's Apparel",
+    "price":124.99,
+    "cost":23.25
+  },
+  {
+    "sku": "SK13498",
+    "label": "Unisex Oversized Sweatshirt",
+    "class": "Jewelry",
+    "department": "Men's Apparel",
+    "price":139.99,
+    "cost":77.13
+  },
+  {
+    "sku": "SK13532",
+    "label": "Puffer Insulated Vest",
+    "class": "Tops",
+    "department": "Sportswear",
+    "price":14.99,
+    "cost":10.72
+  },
+  {
+    "sku": "SK13740",
+    "label": "Faux Fur Winter Coat",
+    "class": "Outerwear",
+    "department": "Footwear",
+    "price":14.99,
+    "cost":4.56
+  },
+  {
+    "sku": "SK13952",
+    "label": "Tactical Hiking Backpack",
+    "class": "Accessories",
+    "department": "Footwear",
+    "price":199.99,
+    "cost":115.79
+  },
+  {
+    "sku": "SK14045",
+    "label": "Stretch Fit Slip-On Sneakers",
+    "class": "Accessories",
+    "department": "Unisex Accessories",
+    "price":124.99,
+    "cost":54.12
+  },
+  {
+    "sku": "SK14051",
+    "label": "Crew Neck Merino Wool Sweater",
+    "class": "Tops",
+    "department": "Women's Apparel",
+    "price":19.99,
+    "cost":3.62
+  },
+  {
+    "sku": "SK14104",
+    "label": "Handcrafted Wooden Watch",
+    "class": "Bottoms",
+    "department": "Footwear",
+    "price":154.99,
+    "cost":122.91
+  },
+  {
+    "sku": "SK14223",
+    "label": "Smart Heated Gloves",
+    "class": "Tops",
+    "department": "Women's Apparel",
+    "price":34.99,
+    "cost":4.13
+  },
+  {
+    "sku": "SK14232",
+    "label": "Luxury Silk Tie",
+    "class": "Tops",
+    "department": "Sportswear",
+    "price":114.99,
+    "cost":49.68
+  },
+  {
+    "sku": "SK14409",
+    "label": "Heavy-Duty Work Gloves",
+    "class": "Tops",
+    "department": "Women's Apparel",
+    "price":164.99,
+    "cost":63.03
+  },
+  {
+    "sku": "SK14424",
+    "label": "Waterproof Hiking Boots",
+    "class": "Jewelry",
+    "department": "Men's Apparel",
+    "price":144.99,
+    "cost":17.25
+  },
+  {
+    "sku": "SK14528",
+    "label": "Performance Swim Trunks",
+    "class": "Footwear",
+    "department": "Unisex Accessories",
+    "price":114.99,
+    "cost":41.51
+  },
+  {
+    "sku": "SK14566",
+    "label": "Feather Embellished Fedora",
+    "class": "Outerwear",
+    "department": "Sportswear",
+    "price":184.99,
+    "cost":193.87
+  },
+  {
+    "sku": "SK14651",
+    "label": "Floral Chiffon Wrap Dress",
+    "class": "Tops",
+    "department": "Footwear",
+    "price":159.99,
+    "cost":110.23
+  },
+  {
+    "sku": "SK14807",
+    "label": "Bamboo Fiber Boxer Briefs",
+    "class": "Accessories",
+    "department": "Men's Apparel",
+    "price":89.99,
+    "cost":7.74
+  },
+  {
+    "sku": "SK14940",
+    "label": "Woven Straw Sun Hat",
+    "class": "Footwear",
+    "department": "Women's Apparel",
+    "price":99.99,
+    "cost":9.70
+  },
+  {
+    "sku": "SK14945",
+    "label": "Silk Embroidered Kimono",
+    "class": "Bottoms",
+    "department": "Women's Apparel",
+    "price":74.99,
+    "cost":12.30
+  },
+  {
+    "sku": "SK14974",
+    "label": "Asymmetrical Hem Skirt",
+    "class": "Bottoms",
+    "department": "Footwear",
+    "price":184.99,
+    "cost":19.98
+  },
+  {
+    "sku": "SK15217",
+    "label": "Wool Fedora Hat",
+    "class": "Footwear",
+    "department": "Sportswear",
+    "price":99.99,
+    "cost":86.49
+  },
+  {
+    "sku": "SK15290",
+    "label": "Fleece Jogger Sweatpants",
+    "class": "Footwear",
+    "department": "Sportswear",
+    "price":79.99,
+    "cost":45.67
+  },
+  {
+    "sku": "SK15291",
+    "label": "Cuffed Jogger Pants",
+    "class": "Outerwear",
+    "department": "Sportswear",
+    "price":114.99,
+    "cost":52.90
+  },
+  {
+    "sku": "SK15526",
+    "label": "Relaxed Fit Cargo Pants",
+    "class": "Bottoms",
+    "department": "Women's Apparel",
+    "price":199.99,
+    "cost":80.80
+  },
+  {
+    "sku": "SK15631",
+    "label": "Velvet Slip Dress",
+    "class": "Tops",
+    "department": "Footwear",
+    "price":164.99,
+    "cost":106.75
+  },
+  {
+    "sku": "SK15722",
+    "label": "Cashmere Turtleneck Sweater",
+    "class": "Accessories",
+    "department": "Men's Apparel",
+    "price":99.99,
+    "cost":91.79
+  },
+  {
+    "sku": "SK15739",
+    "label": "High-Waisted Bikini Set",
+    "class": "Outerwear",
+    "department": "Sportswear",
+    "price":64.99,
+    "cost":69.34
+  },
+  {
+    "sku": "SK15761",
+    "label": "Minimalist Gold Necklace",
+    "class": "Jewelry",
+    "department": "Sportswear",
+    "price":74.99,
+    "cost":71.47
+  },
+  {
+    "sku": "SK16210",
+    "label": "Oversized Cat-Eye Sunglasses",
+    "class": "Outerwear",
+    "department": "Men's Apparel",
+    "price":119.99,
+    "cost":117.83
+  },
+  {
+    "sku": "SK16364",
+    "label": "Minimalist Silver Ring",
+    "class": "Outerwear",
+    "department": "Women's Apparel",
+    "price":64.99,
+    "cost":49.59
+  },
+  {
+    "sku": "SK16370",
+    "label": "Sherpa Lined Denim Jacket",
+    "class": "Jewelry",
+    "department": "Men's Apparel",
+    "price":189.99,
+    "cost":28.69
+  },
+  {
+    "sku": "SK16474",
+    "label": "Cropped Faux Leather Jacket",
+    "class": "Outerwear",
+    "department": "Women's Apparel",
+    "price":39.99,
+    "cost":21.03
+  },
+  {
+    "sku": "SK16642",
+    "label": "Tassel Fringe Handbag",
+    "class": "Tops",
+    "department": "Men's Apparel",
+    "price":134.99,
+    "cost":20.79
+  },
+  {
+    "sku": "SK16722",
+    "label": "Reflective Running Vest",
+    "class": "Jewelry",
+    "department": "Sportswear",
+    "price":154.99,
+    "cost":112.21
+  },
+  {
+    "sku": "SK16745",
+    "label": "Classic Denim Jacket",
+    "class": "Footwear",
+    "department": "Footwear",
+    "price":24.99,
+    "cost":22.29
+  },
+  {
+    "sku": "SK16750",
+    "label": "Faux Leather Leggings",
+    "class": "Outerwear",
+    "department": "Unisex Accessories",
+    "price":64.99,
+    "cost":43.02
+  },
+  {
+    "sku": "SK16871",
+    "label": "Woven Straw Sun Hat",
+    "class": "Bottoms",
+    "department": "Sportswear",
+    "price":9.99,
+    "cost":0.80
+  },
+  {
+    "sku": "SK17623",
+    "label": "Silk Embroidered Kimono",
+    "class": "Footwear",
+    "department": "Footwear",
+    "price":134.99,
+    "cost":48.06
+  },
+  {
+    "sku": "SK17867",
+    "label": "High-Slit Maxi Dress",
+    "class": "Tops",
+    "department": "Unisex Accessories",
+    "price":9.99,
+    "cost":7.85
+  },
+  {
+    "sku": "SK18018",
+    "label": "Fleece-Lined Parka",
+    "class": "Tops",
+    "department": "Footwear",
+    "price":59.99,
+    "cost":17.40
+  },
+  {
+    "sku": "SK18148",
+    "label": "Silk Neck Scarf",
+    "class": "Bottoms",
+    "department": "Men's Apparel",
+    "price":114.99,
+    "cost":120.62
+  },
+  {
+    "sku": "SK18224",
+    "label": "Unisex Oversized Sweatshirt",
+    "class": "Accessories",
+    "department": "Men's Apparel",
+    "price":134.99,
+    "cost":106.64
+  },
+  {
+    "sku": "SK18623",
+    "label": "Textured Knit Pullover",
+    "class": "Jewelry",
+    "department": "Men's Apparel",
+    "price":34.99,
+    "cost":33.38
+  },
+  {
+    "sku": "SK18665",
+    "label": "Luxury Silk Tie",
+    "class": "Tops",
+    "department": "Footwear",
+    "price":54.99,
+    "cost":20.95
+  },
+  {
+    "sku": "SK18753",
+    "label": "Rugged Utility Jacket",
+    "class": "Outerwear",
+    "department": "Women's Apparel",
+    "price":29.99,
+    "cost":20.69
+  },
+  {
+    "sku": "SK18791",
+    "label": "Retro-Inspired Sunglasses",
+    "class": "Jewelry",
+    "department": "Unisex Accessories",
+    "price":79.99,
+    "cost":82.55
+  },
+  {
+    "sku": "SK19521",
+    "label": "High-Slit Maxi Dress",
+    "class": "Outerwear",
+    "department": "Footwear",
+    "price":14.99,
+    "cost":6.49
+  },
+  {
+    "sku": "SK19547",
+    "label": "Boho Style Tassel Earrings",
+    "class": "Outerwear",
+    "department": "Men's Apparel",
+    "price":104.99,
+    "cost":11.02
+  },
+  {
+    "sku": "SK19857",
+    "label": "Metallic Hoop Earrings",
+    "class": "Bottoms",
+    "department": "Unisex Accessories",
+    "price":84.99,
+    "cost":35.61
   }
 ]
