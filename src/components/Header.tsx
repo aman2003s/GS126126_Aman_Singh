@@ -7,6 +7,7 @@ import IconButton from '@mui/material/IconButton';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import MenuItem from '@mui/material/MenuItem';
 import Menu from '@mui/material/Menu';
+import gsyneryLogo from "../../public/gsynery-logo.svg";
 
 export default function Header() {
   const [auth, setAuth] = React.useState(true);
@@ -22,10 +23,10 @@ export default function Header() {
 
   return (
     <Box sx={{ flexGrow: 0 }}>
-      <AppBar position="fixed" sx={{ position:"fixed",zIndex: (theme) => theme.zIndex.drawer + 1 }}>
+      <AppBar position="fixed" sx={{ position:"fixed",zIndex: (theme) => theme.zIndex.drawer + 1}} color='default'>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Photos
+            <img src={gsyneryLogo} style={{width:'140px'}}/>
           </Typography>
           {auth && (
             <div>
